@@ -9,6 +9,6 @@ else if (value!==0) {
 }
 }
 else {
-    console.log("Whoops, you are definitely wrong");
+    console.log("Упс, кажется вы ошиблись");
   }
   
